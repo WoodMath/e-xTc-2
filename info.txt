@@ -1,0 +1,13 @@
+http://hzqtc.github.io/2012/05/play-mp3-with-libmpg123-and-libao.html
+http://en.wikipedia.org/wiki/Bit_rate
+http://www.voxforge.org/home/docs/faq/faq/what-are-sampling-rate-and-bits-per-sample
+http://tweakheadz.com/16_vs_24_bit_audio.htm
+http://www.musiciansfriend.com/document?doc_id=88273&src=3SOSWXXA
+http://computer.howstuffworks.com/mp32.htm
+http://www.audiomountain.com/tech/audio-file-size.html
+http://www.audiomountain.com/tech/calculations/Calculations.html
+http://www.dslreports.com/faq/830
+http://www.mpg123.de/api/group__mpg123__lowio.shtml
+http://www.mpg123.de/api/group__mpg123__input.shtml
+http://www.mpg123.de/api/group__mpg123__output.shtml
+https://xiph.org/ao/doc/ao_play.html
